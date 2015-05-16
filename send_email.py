@@ -45,7 +45,10 @@ def send_mail(to_email, sub, context):
 if __name__ == '__main__':
     to_email = raw_input('Input email:')
     sub = raw_input('Input sub:')
-    context = raw_input('Input context:')
+    context_path = raw_input('Input context path:')
+
+    with open(context_path) as inputfile:
+        context = inputfile.read()
 
     print to_email
     print sub
