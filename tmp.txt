@@ -1,0 +1,622 @@
+*cmd* 'USER blessed_alan@163.com'
+*cmd* 'PASS demaxiya321...'
+*cmd* 'STAT'
+*stat* ['+OK', '86', '16092646']
+(86, 16092646)
+*cmd* 'TOP 1 0'
+line:  28
+*cmd* 'TOP 2 0'
+line:  26
+*cmd* 'TOP 3 0'
+line:  29
+*cmd* 'TOP 4 0'
+line:  36
+*cmd* 'TOP 5 0'
+line:  34
+*cmd* 'TOP 6 0'
+line:  31
+*cmd* 'TOP 7 0'
+line:  20
+*cmd* 'TOP 8 0'
+line:  31
+*cmd* 'TOP 9 0'
+line:  27
+*cmd* 'TOP 10 0'
+line:  23
+*cmd* 'TOP 11 0'
+line:  31
+*cmd* 'TOP 12 0'
+line:  35
+*cmd* 'TOP 13 0'
+line:  35
+*cmd* 'TOP 14 0'
+line:  37
+*cmd* 'TOP 15 0'
+line:  18
+*cmd* 'TOP 16 0'
+line:  26
+*cmd* 'TOP 17 0'
+line:  31
+*cmd* 'TOP 18 0'
+line:  23
+*cmd* 'TOP 19 0'
+line:  20
+*cmd* 'TOP 20 0'
+line:  20
+*cmd* 'TOP 21 0'
+line:  26
+*cmd* 'TOP 22 0'
+line:  36
+*cmd* 'TOP 23 0'
+line:  32
+*cmd* 'TOP 24 0'
+line:  31
+*cmd* 'TOP 25 0'
+line:  30
+*cmd* 'TOP 26 0'
+line:  30
+*cmd* 'TOP 27 0'
+line:  25
+*cmd* 'TOP 28 0'
+line:  20
+*cmd* 'TOP 29 0'
+line:  31
+*cmd* 'TOP 30 0'
+line:  33
+*cmd* 'TOP 31 0'
+line:  18
+*cmd* 'TOP 32 0'
+line:  31
+*cmd* 'TOP 33 0'
+line:  31
+*cmd* 'TOP 34 0'
+line:  32
+*cmd* 'TOP 35 0'
+line:  23
+*cmd* 'TOP 36 0'
+line:  23
+*cmd* 'TOP 37 0'
+line:  18
+*cmd* 'TOP 38 0'
+line:  32
+*cmd* 'TOP 39 0'
+line:  33
+*cmd* 'TOP 40 0'
+line:  32
+*cmd* 'TOP 41 0'
+line:  40
+*cmd* 'TOP 42 0'
+line:  33
+*cmd* 'TOP 43 0'
+line:  45
+*cmd* 'TOP 44 0'
+line:  28
+*cmd* 'TOP 45 0'
+line:  29
+*cmd* 'TOP 46 0'
+line:  47
+*cmd* 'TOP 47 0'
+line:  46
+*cmd* 'TOP 48 0'
+line:  25
+*cmd* 'TOP 49 0'
+line:  19
+*cmd* 'TOP 50 0'
+line:  31
+*cmd* 'TOP 51 0'
+line:  48
+*cmd* 'TOP 52 0'
+line:  31
+*cmd* 'TOP 53 0'
+line:  49
+*cmd* 'TOP 54 0'
+line:  42
+*cmd* 'TOP 55 0'
+line:  23
+*cmd* 'TOP 56 0'
+line:  24
+*cmd* 'TOP 57 0'
+line:  30
+*cmd* 'TOP 58 0'
+line:  17
+*cmd* 'TOP 59 0'
+line:  44
+*cmd* 'TOP 60 0'
+line:  18
+*cmd* 'TOP 61 0'
+line:  24
+*cmd* 'TOP 62 0'
+line:  34
+*cmd* 'TOP 63 0'
+line:  36
+*cmd* 'TOP 64 0'
+line:  35
+*cmd* 'TOP 65 0'
+line:  33
+*cmd* 'TOP 66 0'
+line:  18
+*cmd* 'TOP 67 0'
+line:  49
+*cmd* 'TOP 68 0'
+line:  34
+*cmd* 'TOP 69 0'
+line:  31
+*cmd* 'TOP 70 0'
+line:  28
+*cmd* 'TOP 71 0'
+line:  29
+*cmd* 'TOP 72 0'
+line:  29
+*cmd* 'TOP 73 0'
+line:  42
+*cmd* 'TOP 74 0'
+line:  31
+*cmd* 'TOP 75 0'
+line:  19
+*cmd* 'TOP 76 0'
+line:  31
+*cmd* 'TOP 77 0'
+line:  32
+*cmd* 'TOP 78 0'
+line:  32
+*cmd* 'TOP 79 0'
+line:  22
+*cmd* 'TOP 80 0'
+line:  40
+*cmd* 'TOP 81 0'
+line:  17
+*cmd* 'TOP 82 0'
+line:  53
+*cmd* 'TOP 83 0'
+line:  25
+*cmd* 'TOP 84 0'
+line:  31
+*cmd* 'TOP 85 0'
+line:  34
+*cmd* 'TOP 86 0'
+line:  47
+*cmd* 'LIST'
+('+OK 86 16092646', ['1 5521', '2 12639', '3 8864', '4 7165', '5 6822', '6 18286', '7 5696', '8 4014', '9 4808', '10 9898', '11 18291', '12 6322', '13 3282', '14 10634', '15 8430', '16 2640', '17 4416', '18 13809', '19 1849', '20 1857', '21 9601', '22 6480', '23 2637', '24 5499', '25 32901', '26 8558', '27 15904', '28 1855', '29 18287', '30 2674', '31 7375', '32 4976', '33 7299', '34 29935', '35 4452', '36 5840', '37 4321', '38 5382', '39 43937', '40 4024', '41 48121', '42 6448', '43 546294', '44 10904', '45 10698', '46 11829', '47 2271840', '48 4059', '49 4087560', '50 5360', '51 70685', '52 2925', '53 80886', '54 8057528', '55 3607', '56 4013', '57 3218', '58 1168', '59 5584', '60 4973', '61 2098', '62 20000', '63 70282', '64 59327', '65 7530', '66 6777', '67 21799', '68 55952', '69 17166', '70 8627', '71 18919', '72 10015', '73 4943', '74 15603', '75 5010', '76 6258', '77 29332', '78 5190', '79 16698', '80 13826', '81 1088', '82 18597', '83 4504', '84 7682', '85 29092', '86 21451'], 807)
+*cmd* 'RETR 86'
+lines:  3
+line---- Received: from sessmg23.ericsson.net (unknown [193.180.251.45])
+line---- 	by mx45 (Coremail) with SMTP id X8CowEBpAEMX4GZVDQWhCA--.410S3;
+line---- 	Thu, 28 May 2015 17:30:01 +0800 (CST)
+line---- X-AuditID: c1b4fb2d-f794d6d000004501-ee-5566e015e854
+line---- Received: from ESGSCHC001.ericsson.se (Unknown_Domain [153.88.253.125])
+line---- 	by sessmg23.ericsson.net (Symantec Mail Security) with SMTP id A1.6F.17665.510E6655; Thu, 28 May 2015 11:29:58 +0200 (CEST)
+line---- Received: from ESGSCMB101.ericsson.se ([169.254.1.132]) by
+line----  ESGSCHC001.ericsson.se ([10.0.18.117]) with mapi id 14.03.0210.002; Thu, 28
+line----  May 2015 17:29:48 +0800
+line---- From: OFFER XA <offer.xa@ericsson.com>
+line---- To: "Blessed_Alan@163.com" <Blessed_Alan@163.com>
+line---- Subject: =?gb2312?B?RXJpY3Nzb24osK7BotDFKS1PbmJvYXJkIGRhdGUoyLe2qMjr1rDKsbzkKS0=?=
+line----  =?gb2312?B?tPPBrNCj1LDV0Ma4LcLpt7O+ob/su9i4tKOho6GjoQ==?=
+line---- Thread-Topic: =?gb2312?B?RXJpY3Nzb24osK7BotDFKS1PbmJvYXJkIGRhdGUoyLe2qMjr1rDKsbzkKS0=?=
+line----  =?gb2312?B?tPPBrNCj1LDV0Ma4LcLpt7O+ob/su9i4tKOho6GjoQ==?=
+line---- Thread-Index: AdCRHO7VE78pwzJZR3u7gP9TUEH58wAAGA4QAgLZg/A=
+line---- Date: Thu, 28 May 2015 09:29:48 +0000
+line---- Message-ID: <93E127F9688FAD4F8C690E6AFD25741DA0BAE2@ESGSCMB101.ericsson.se>
+line---- Accept-Language: en-US
+line---- Content-Language: en-US
+line---- X-MS-Has-Attach: yes
+line---- X-MS-TNEF-Correlator:
+line---- x-originating-ip: [146.11.116.6]
+line---- Content-Type: multipart/related;
+line---- 	boundary="_004_93E127F9688FAD4F8C690E6AFD25741DA0BAE2ESGSCMB101ericsso_";
+line---- 	type="multipart/alternative"
+line---- MIME-Version: 1.0
+line---- X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFlrOIsWRmVeSWpSXmKPExsUyM+Jvra7Yg7RQg8kftSxObPzO7MDosXjF
+line---- 	FNYAxigum5TUnMyy1CJ9uwSujPMv5rAVnJ7EWPH4zwGmBsZbHYxdjJwcEgImEm+7zjJB2GIS
+line---- 	F+6tZ+ti5OIQEjjKKLF9x1YWCGcRo8Tch++ZQarYBNQktl2ewApiiwgYSnxedY0JpEhYoI9R
+line---- 	Yu/1jWAdIgKTGSVeLF/MDFFlJfHsVzs7iM0ioCrR+P4uC4jNK+AtseXgJrA4I9Du76fWgN3B
+line---- 	LCAucevJfKibRCQeXjzNBmGLSrx8/I8VwlaQmL7hHiPIMmaBbkaJl4evs0EMFZQ4OfMJywRG
+line---- 	oVlIZs1CVjcLSR1EUb7EtQftULaWxLyG30wQtqLElO6H7BC2psSVyYegbG2JZQtfM0PYOhKb
+line---- 	L+1kgalv65wNtWwpo8TZOX/ZYIo2vFnMjmzoAkbeVYyixanFxbnpRsZ6qUWZycXF+Xl6eakl
+line---- 	mxiBMXtwy2/dHYyrXzseYhTgYFTi4X2wLi1UiDWxrLgy9xCjNAeLkjivV1dIqJBAemJJanZq
+line---- 	akFqUXxRaU5q8SFGJg5OqQZGzZwGnpXXcs3eXJfrmaU/y7Bn28t9xiG3btYLT7/mZb9L5t57
+line---- 	q5Va+9728TRwTtr68WKNmK+K5iGW0zdvt4mE8s5OWagRft5tw9SiuYYa7r0rfe4bvfguxnu6
+line---- 	TNDlPnME34aN91en7ngSes6Om/mxlKux4t5zWmrH8lYd07qtK+j05v9b+cP7lFiKMxINtZiL
+line---- 	ihMBkXoM0roCAAA=
+line---- X-CM-TRANSID:X8CowEBpAEMX4GZVDQWhCA--.410S3
+line---- Authentication-Results: mx45; spf=pass smtp.mail=offer.xa@ericsson.com
+line---- 	;
+line---- X-Coremail-Antispam: 1Uf129KBjvdXoW7XryUArW3tFyDGw18Cw1Utrb_yoWDArXE9a
+line---- 	srXFy2qrnxJFZ5Ka1rGr1rAFs7J393Wan5Aw4fKr40kw15Kw13Cw18Wrs7A34kXasIyFnx
+line---- 	JrnakFW7ursIgjkaLaAFLSUrUUUUUb8apTn2vfkv8UJUUUU8Yxn0WfASr-VFAUDa7-sFnT
+line---- 	9fnUUvcSsGvfC2KfnxnUUI43ZEXa7IUUiSdPUUUUU==
+line---- 
+line---- --_004_93E127F9688FAD4F8C690E6AFD25741DA0BAE2ESGSCMB101ericsso_
+line---- Content-Type: multipart/alternative;
+line---- 	boundary="_000_93E127F9688FAD4F8C690E6AFD25741DA0BAE2ESGSCMB101ericsso_"
+line---- 
+line---- --_000_93E127F9688FAD4F8C690E6AFD25741DA0BAE2ESGSCMB101ericsso_
+line---- Content-Type: text/plain; charset="gb2312"
+line---- Content-Transfer-Encoding: base64
+line---- 
+line---- xOO6w6OsDQoNCsTjtcS157uwMTg2NDA4NzExNTHSu9axyse52Lv617TMrKGjwum3s9Taz8LW3NK7
+line---- x7CjrLvYuLSyosi3yM/I69awyrG85KGjDQoNCtC70Luhow0KDQpCZXN0IHJlZ2FyZHMNCkNpY2kN
+line---- Cg0KRnJvbTogT0ZGRVIgWEENClNlbnQ6IE1vbmRheSwgTWF5IDE4LCAyMDE1IDExOjQ3IEFNDQpT
+line---- dWJqZWN0OiBFcmljc3NvbiiwrsGi0MUpLU9uYm9hcmQgZGF0ZSjIt7aoyOvWsMqxvOQpLbTzwazQ
+line---- o9Sw1dDGuC3C6bezvqG/7LvYuLSjoaOho6ENCg0KxOO6w6OsDQoNCrCuwaLQxcjr1rDKws/uyLfI
+line---- z7+qyrzBy6GjDQoNCsLpt7PIt8jPsK7BotDFtcTI69awyrG85M6qN9TCNsjVoaOjqLHY0OvU2jfU
+line---- wjbI1cewxMO1vbHP0rXWpLrN0afOu9akssXE3NX9yr3I69awo6zL+dLUwum3s8i3yM/Kx7fxv8nS
+line---- 1NTaN9TCNsjVx7DEw7W9sc/Stdakus3Rp8671qSjqaGjDQoNCg0KoaQgICAgICAgICDI57/J0tTU
+line---- 2jbUwjE1yNXHsLHP0rWyosTDtb2xz9K11qS6zdGnzrvWpKOswum3s9PKvP645taqo6y74b2ryOvW
+line---- sMqxvOS2qNTaNtTCMTXI1aGjDQoNCg0KoaQgICAgICAgICDI5zfUwjbI1cewxMOyu7W9sc/Stdak
+line---- us3Rp8671qSjrMLpt7O45taqo6y9q9bY0MLBqs+1xOPIt7aoyOvWsMqxvOShow0KDQrI69awyrG8
+line---- 5Mi3tqi6872rv6rKvMbky/vI69awysLP7rXEyLfIz7rNsOzA7aOsy/nS1MLpt7PK1bW908q8/rrz
+line---- vqG/7Mi3yM+yorvYuLTO0qGjDQoNCsjOus7Syc7Ky+bKscGqz7XO0qGjtee7sKO6ODI2ODkwNzku
+line---- 08rP5KO6b2ZmZXIueGFAZXJpY3Nzb24uY29tPG1haWx0bzpvZmZlci54YUBlcmljc3Nvbi5jb20+
+line---- DQoNCtC70Luhow0KDQoNCltFcmljc3Nvbl08aHR0cDovL3d3dy5lcmljc3Nvbi5jb20vPg0KTGVn
+line---- YWwgZW50aXR5OiBFR1gsIHJlZ2lzdGVyZWQgb2ZmaWNlIGluIEVHWC4gVGhpcyBDb21tdW5pY2F0
+line---- aW9uIGlzIENvbmZpZGVudGlhbC4gV2Ugb25seSBzZW5kIGFuZCByZWNlaXZlIGVtYWlsIG9uIHRo
+line---- ZSBiYXNpcyBvZiB0aGUgdGVybXMgc2V0IG91dCBhdCB3d3cuZXJpY3Nzb24uY29tL2VtYWlsX2Rp
+line---- c2NsYWltZXI8aHR0cDovL3d3dy5lcmljc3Nvbi5jb20vZW1haWxfZGlzY2xhaW1lcj4NCg==
+line---- 
+line---- --_000_93E127F9688FAD4F8C690E6AFD25741DA0BAE2ESGSCMB101ericsso_
+line---- Content-Type: text/html; charset="gb2312"
+line---- Content-Transfer-Encoding: quoted-printable
+line---- 
+line---- <html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+line---- osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+line---- xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+line---- s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+line---- 40">
+line---- <head>
+line---- <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+line---- <meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+line---- <!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+line---- o\:* {behavior:url(#default#VML);}
+line---- w\:* {behavior:url(#default#VML);}
+line---- .shape {behavior:url(#default#VML);}
+line---- </style><![endif]--><style><!--
+line---- /* Font Definitions */
+line---- @font-face
+line---- 	{font-family:Wingdings;
+line---- 	panose-1:5 0 0 0 0 0 0 0 0 0;}
+line---- @font-face
+line---- 	{font-family:SimSun;
+line---- 	panose-1:2 1 6 0 3 1 1 1 1 1;}
+line---- @font-face
+line---- 	{font-family:SimSun;
+line---- 	panose-1:2 1 6 0 3 1 1 1 1 1;}
+line---- @font-face
+line---- 	{font-family:Calibri;
+line---- 	panose-1:2 15 5 2 2 2 4 3 2 4;}
+line---- @font-face
+line---- 	{font-family:Tahoma;
+line---- 	panose-1:2 11 6 4 3 5 4 4 2 4;}
+line---- @font-face
+line---- 	{font-family:"\@SimSun";
+line---- 	panose-1:2 1 6 0 3 1 1 1 1 1;}
+line---- /* Style Definitions */
+line---- p.MsoNormal, li.MsoNormal, div.MsoNormal
+line---- 	{margin:0in;
+line---- 	margin-bottom:.0001pt;
+line---- 	font-size:11.0pt;
+line---- 	font-family:"Calibri","sans-serif";}
+line---- a:link, span.MsoHyperlink
+line---- 	{mso-style-priority:99;
+line---- 	color:blue;
+line---- 	text-decoration:underline;}
+line---- a:visited, span.MsoHyperlinkFollowed
+line---- 	{mso-style-priority:99;
+line---- 	color:purple;
+line---- 	text-decoration:underline;}
+line---- p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+line---- 	{mso-style-priority:99;
+line---- 	mso-style-link:"Balloon Text Char";
+line---- 	margin:0in;
+line---- 	margin-bottom:.0001pt;
+line---- 	font-size:8.0pt;
+line---- 	font-family:"Tahoma","sans-serif";}
+line---- p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+line---- 	{mso-style-priority:34;
+line---- 	margin-top:0in;
+line---- 	margin-right:0in;
+line---- 	margin-bottom:0in;
+line---- 	margin-left:.5in;
+line---- 	margin-bottom:.0001pt;
+line---- 	font-size:11.0pt;
+line---- 	font-family:"Calibri","sans-serif";}
+line---- span.BalloonTextChar
+line---- 	{mso-style-name:"Balloon Text Char";
+line---- 	mso-style-priority:99;
+line---- 	mso-style-link:"Balloon Text";
+line---- 	font-family:"Tahoma","sans-serif";}
+line---- span.EmailStyle20
+line---- 	{mso-style-type:personal;
+line---- 	font-family:"Calibri","sans-serif";
+line---- 	color:windowtext;}
+line---- span.EmailStyle21
+line---- 	{mso-style-type:personal;
+line---- 	font-family:"Calibri","sans-serif";
+line---- 	color:#1F497D;}
+line---- span.EmailStyle22
+line---- 	{mso-style-type:personal;
+line---- 	font-family:"Calibri","sans-serif";
+line---- 	color:#1F497D;}
+line---- span.EmailStyle23
+line---- 	{mso-style-type:personal-reply;
+line---- 	font-family:"Calibri","sans-serif";
+line---- 	color:#1F497D;}
+line---- .MsoChpDefault
+line---- 	{mso-style-type:export-only;
+line---- 	font-size:10.0pt;}
+line---- @page WordSection1
+line---- 	{size:8.5in 11.0in;
+line---- 	margin:1.0in 1.0in 1.0in 1.0in;}
+line---- div.WordSection1
+line---- 	{page:WordSection1;}
+line---- /* List Definitions */
+line---- @list l0
+line---- 	{mso-list-id:1894849770;
+line---- 	mso-list-type:hybrid;
+line---- 	mso-list-template-ids:376217098 67698689 67698691 67698693 67698689 676986=
+line---- 91 67698693 67698689 67698691 67698693;}
+line---- @list l0:level1
+line---- 	{mso-level-number-format:bullet;
+line---- 	mso-level-text:\F0B7;
+line---- 	mso-level-tab-stop:none;
+line---- 	mso-level-number-position:left;
+line---- 	text-indent:-.25in;
+line---- 	font-family:Symbol;}
+line---- @list l0:level2
+line---- 	{mso-level-number-format:bullet;
+line---- 	mso-level-text:o;
+line---- 	mso-level-tab-stop:none;
+line---- 	mso-level-number-position:left;
+line---- 	text-indent:-.25in;
+line---- 	font-family:"Courier New";}
+line---- @list l0:level3
+line---- 	{mso-level-number-format:bullet;
+line---- 	mso-level-text:\F0A7;
+line---- 	mso-level-tab-stop:none;
+line---- 	mso-level-number-position:left;
+line---- 	text-indent:-.25in;
+line---- 	font-family:Wingdings;}
+line---- @list l0:level4
+line---- 	{mso-level-number-format:bullet;
+line---- 	mso-level-text:\F0B7;
+line---- 	mso-level-tab-stop:none;
+line---- 	mso-level-number-position:left;
+line---- 	text-indent:-.25in;
+line---- 	font-family:Symbol;}
+line---- @list l0:level5
+line---- 	{mso-level-number-format:bullet;
+line---- 	mso-level-text:o;
+line---- 	mso-level-tab-stop:none;
+line---- 	mso-level-number-position:left;
+line---- 	text-indent:-.25in;
+line---- 	font-family:"Courier New";}
+line---- @list l0:level6
+line---- 	{mso-level-number-format:bullet;
+line---- 	mso-level-text:\F0A7;
+line---- 	mso-level-tab-stop:none;
+line---- 	mso-level-number-position:left;
+line---- 	text-indent:-.25in;
+line---- 	font-family:Wingdings;}
+line---- @list l0:level7
+line---- 	{mso-level-number-format:bullet;
+line---- 	mso-level-text:\F0B7;
+line---- 	mso-level-tab-stop:none;
+line---- 	mso-level-number-position:left;
+line---- 	text-indent:-.25in;
+line---- 	font-family:Symbol;}
+line---- @list l0:level8
+line---- 	{mso-level-number-format:bullet;
+line---- 	mso-level-text:o;
+line---- 	mso-level-tab-stop:none;
+line---- 	mso-level-number-position:left;
+line---- 	text-indent:-.25in;
+line---- 	font-family:"Courier New";}
+line---- @list l0:level9
+line---- 	{mso-level-number-format:bullet;
+line---- 	mso-level-text:\F0A7;
+line---- 	mso-level-tab-stop:none;
+line---- 	mso-level-number-position:left;
+line---- 	text-indent:-.25in;
+line---- 	font-family:Wingdings;}
+line---- ol
+line---- 	{margin-bottom:0in;}
+line---- ul
+line---- 	{margin-bottom:0in;}
+line---- --></style><!--[if gte mso 9]><xml>
+line---- <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+line---- </xml><![endif]--><!--[if gte mso 9]><xml>
+line---- <o:shapelayout v:ext=3D"edit">
+line---- <o:idmap v:ext=3D"edit" data=3D"1" />
+line---- </o:shapelayout></xml><![endif]-->
+line---- </head>
+line---- <body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+line---- <div class=3D"WordSection1">
+line---- <p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-family:SimSun;col=
+line---- or:#1F497D">=C4=E3=BA=C3=A3=AC</span><span style=3D"color:#1F497D"><o:p></o=
+line---- :p></span></p>
+line---- <p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+line---- n></p>
+line---- <p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-family:SimSun;col=
+line---- or:#1F497D">=C4=E3=B5=C4=B5=E7=BB=B0</span><span style=3D"color:#1F497D">18=
+line---- 640871151</span><span lang=3D"ZH-CN" style=3D"font-family:SimSun;color:#1F4=
+line---- 97D">=D2=BB=D6=B1=CA=C7=B9=D8=BB=FA=D7=B4=CC=AC=A1=A3=C2=E9=B7=B3=D4=DA=CF=
+line---- =C2=D6=DC=D2=BB=C7=B0=A3=AC=BB=D8=B8=B4=B2=A2=C8=B7=C8=CF=C8=EB=D6=B0=CA=B1=
+line---- =BC=E4=A1=A3</span><span style=3D"color:#1F497D"><o:p></o:p></span></p>
+line---- <p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+line---- n></p>
+line---- <p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-family:SimSun;col=
+line---- or:#1F497D">=D0=BB=D0=BB=A1=A3</span><span style=3D"color:#1F497D"><o:p></o=
+line---- :p></span></p>
+line---- <p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+line---- n></p>
+line---- <div>
+line---- <p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best regards<o:p></o:p=
+line---- ></span></p>
+line---- <p class=3D"MsoNormal"><span style=3D"color:#1F497D">Cici<o:p></o:p></span>=
+line---- </p>
+line---- </div>
+line---- <p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+line---- n></p>
+line---- <div>
+line---- <div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+line---- 0in 0in">
+line---- <p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+line---- ;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+line---- ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> OFFER XA
+line---- <br>
+line---- <b>Sent:</b> Monday, May 18, 2015 11:47 AM<br>
+line---- <b>Subject:</b> Ericsson(</span><span lang=3D"ZH-CN" style=3D"font-size:10.=
+line---- 0pt;font-family:SimSun">=B0=AE=C1=A2=D0=C5</span><span style=3D"font-size:1=
+line---- 0.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">)-Onboard date=
+line---- (</span><span lang=3D"ZH-CN" style=3D"font-size:10.0pt;font-family:SimSun">=
+line---- =C8=B7=B6=A8=C8=EB=D6=B0=CA=B1=BC=E4</span><span style=3D"font-size:10.0pt;=
+line---- font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">)-</span><span lang=
+line---- =3D"ZH-CN" style=3D"font-size:10.0pt;font-family:SimSun">=B4=F3=C1=AC=D0=A3=
+line---- =D4=B0=D5=D0=C6=B8</span><span style=3D"font-size:10.0pt;font-family:&quot;=
+line---- Tahoma&quot;,&quot;sans-serif&quot;">-</span><span lang=3D"ZH-CN" style=3D"=
+line---- font-size:10.0pt;font-family:SimSun">=C2=E9=B7=B3=BE=A1=BF=EC=BB=D8=B8=B4=
+line---- =A3=A1=A3=A1=A3=A1</span><span style=3D"font-size:10.0pt;font-family:&quot;=
+line---- Tahoma&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+line---- </div>
+line---- </div>
+line---- <p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+line---- <p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-family:SimSun">=
+line---- =C4=E3=BA=C3=A3=AC</span><o:p></o:p></p>
+line---- <p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+line---- <p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-family:SimSun">=
+line---- =B0=AE=C1=A2=D0=C5=C8=EB=D6=B0=CA=C2=CF=EE=C8=B7=C8=CF=BF=AA=CA=BC=C1=CB=A1=
+line---- =A3</span><span style=3D"font-family:SimSun"><o:p></o:p></span></p>
+line---- <p class=3D"MsoNormal"><span style=3D"font-family:SimSun"><o:p>&nbsp;</o:p>=
+line---- </span></p>
+line---- <p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-family:SimSun">=
+line---- =C2=E9=B7=B3=C8=B7=C8=CF=B0=AE=C1=A2=D0=C5=B5=C4=C8=EB=D6=B0=CA=B1=BC=E4=CE=
+line---- =AA</span>7<span lang=3D"ZH-CN" style=3D"font-family:SimSun">=D4=C2</span>6=
+line---- <span lang=3D"ZH-CN" style=3D"font-family:SimSun">=C8=D5=A1=A3=A3=A8=B1=D8=
+line---- =D0=EB=D4=DA</span>7<span lang=3D"ZH-CN" style=3D"font-family:SimSun">=D4=
+line---- =C2</span>6<span lang=3D"ZH-CN" style=3D"font-family:SimSun">=C8=D5=C7=B0=
+line---- =C4=C3=B5=BD=B1=CF=D2=B5=D6=A4=BA=CD=D1=A7=CE=BB=D6=A4=B2=C5=C4=DC=D5=FD=CA=
+line---- =BD=C8=EB=D6=B0=A3=AC=CB=F9=D2=D4=C2=E9=B7=B3=C8=B7=C8=CF=CA=C7=B7=F1=BF=C9=
+line---- =D2=D4=D4=DA</span>7<span lang=3D"ZH-CN" style=3D"font-family:SimSun">=D4=
+line---- =C2</span>6<span lang=3D"ZH-CN" style=3D"font-family:SimSun">=C8=D5=C7=B0=
+line---- =C4=C3=B5=BD=B1=CF=D2=B5=D6=A4=BA=CD=D1=A7=CE=BB=D6=A4=A3=A9=A1=A3</span><o=
+line---- :p></o:p></p>
+line---- <p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+line---- <p class=3D"MsoListParagraph" style=3D"text-indent:-.25in;mso-list:l0 level=
+line---- 1 lfo2"><![if !supportLists]><span style=3D"font-family:Symbol"><span style=
+line---- =3D"mso-list:Ignore">=A1=A4<span style=3D"font:7.0pt &quot;Times New Roman&=
+line---- quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+line---- </span></span></span><![endif]><span lang=3D"ZH-CN" style=3D"font-family:Si=
+line---- mSun">=C8=E7=BF=C9=D2=D4=D4=DA</span>6<span lang=3D"ZH-CN" style=3D"font-fa=
+line---- mily:SimSun">=D4=C2</span>15<span lang=3D"ZH-CN" style=3D"font-family:SimSu=
+line---- n">=C8=D5=C7=B0=B1=CF=D2=B5=B2=A2<span style=3D"color:red">=C4=C3=B5=BD</sp=
+line---- an>=B1=CF=D2=B5=D6=A4=BA=CD=D1=A7=CE=BB=D6=A4=A3=AC=C2=E9=B7=B3=D3=CA=BC=FE=
+line---- =B8=E6=D6=AA=A3=AC=BB=E1=BD=AB=C8=EB=D6=B0=CA=B1=BC=E4=B6=A8=D4=DA</span>6<=
+line---- span lang=3D"ZH-CN" style=3D"font-family:SimSun">=D4=C2</span>15<span lang=
+line---- =3D"ZH-CN" style=3D"font-family:SimSun">=C8=D5=A1=A3</span><o:p></o:p></p>
+line---- <p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+line---- <p class=3D"MsoListParagraph" style=3D"text-indent:-.25in;mso-list:l0 level=
+line---- 1 lfo2"><![if !supportLists]><span style=3D"font-family:Symbol"><span style=
+line---- =3D"mso-list:Ignore">=A1=A4<span style=3D"font:7.0pt &quot;Times New Roman&=
+line---- quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+line---- </span></span></span><![endif]><span lang=3D"ZH-CN" style=3D"font-family:Si=
+line---- mSun">=C8=E7</span>7<span lang=3D"ZH-CN" style=3D"font-family:SimSun">=D4=
+line---- =C2</span>6<span lang=3D"ZH-CN" style=3D"font-family:SimSun">=C8=D5=C7=B0<s=
+line---- pan style=3D"color:red">=C4=C3=B2=BB=B5=BD</span>=B1=CF=D2=B5=D6=A4=BA=CD=
+line---- =D1=A7=CE=BB=D6=A4=A3=AC=C2=E9=B7=B3=B8=E6=D6=AA=A3=AC=BD=AB=D6=D8=D0=C2=C1=
+line---- =AA=CF=B5=C4=E3=C8=B7=B6=A8=C8=EB=D6=B0=CA=B1=BC=E4=A1=A3</span><o:p></o:p>=
+line---- </p>
+line---- <p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+line---- <p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-family:SimSun">=
+line---- =C8=EB=D6=B0=CA=B1=BC=E4=C8=B7=B6=A8=BA=F3=BD=AB=BF=AA=CA=BC=C6=E4=CB=FB=C8=
+line---- =EB=D6=B0=CA=C2=CF=EE=B5=C4=C8=B7=C8=CF=BA=CD=B0=EC=C0=ED=A3=AC<span style=
+line---- =3D"color:red">=CB=F9=D2=D4=C2=E9=B7=B3=CA=D5=B5=BD=D3=CA=BC=FE=BA=F3=BE=A1=
+line---- =BF=EC=C8=B7=C8=CF=B2=A2=BB=D8=B8=B4=CE=D2</span>=A1=A3</span><o:p></o:p></=
+line---- p>
+line---- <p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+line---- <p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-family:SimSun">=
+line---- =C8=CE=BA=CE=D2=C9=CE=CA=CB=E6=CA=B1=C1=AA=CF=B5=CE=D2=A1=A3=B5=E7=BB=B0=A3=
+line---- =BA</span>82689079.<span lang=3D"ZH-CN" style=3D"font-family:SimSun">=D3=CA=
+line---- =CF=E4=A3=BA</span><a href=3D"mailto:offer.xa@ericsson.com">offer.xa@ericss=
+line---- on.com</a>
+line---- <o:p></o:p></p>
+line---- <p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+line---- <p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-family:SimSun">=
+line---- =D0=BB=D0=BB=A1=A3</span><span style=3D"font-size:12.0pt;font-family:&quot;=
+line---- Times New Roman&quot;,&quot;serif&quot;"><o:p></o:p></span></p>
+line---- <p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+line---- <p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+line---- mes New Roman&quot;,&quot;serif&quot;"><o:p>&nbsp;</o:p></span></p>
+line---- <p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><a href=3D"http://www=
+line---- .ericsson.com/" target=3D"_blank"><span style=3D"font-size:10.0pt;font-fami=
+line---- ly:&quot;Arial&quot;,&quot;sans-serif&quot;;text-decoration:none"><img bord=
+line---- er=3D"0" width=3D"68" height=3D"60" id=3D"_x0000_i1025" src=3D"cid:image001=
+line---- .gif@01D0810E.2EA05890" alt=3D"Ericsson"></span></a><span style=3D"font-siz=
+line---- e:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:#1=
+line---- F497D"><o:p></o:p></span></p>
+line---- <p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;font-family:&quot;Ari=
+line---- al&quot;,&quot;sans-serif&quot;;color:#333333">Legal entity: EGX, registere=
+line---- d office in EGX. This Communication is Confidential. We only send and recei=
+line---- ve email on the basis of the terms set out at
+line---- <a href=3D"http://www.ericsson.com/email_disclaimer" title=3D"http://www.er=
+line---- icsson.com/email_disclaimer">
+line---- www.ericsson.com/email_disclaimer</a> </span><o:p></o:p></p>
+line---- </div>
+line---- </body>
+line---- </html>
+line---- 
+line---- --_000_93E127F9688FAD4F8C690E6AFD25741DA0BAE2ESGSCMB101ericsso_--
+line---- 
+line---- --_004_93E127F9688FAD4F8C690E6AFD25741DA0BAE2ESGSCMB101ericsso_
+line---- Content-Type: image/gif; name="image001.gif"
+line---- Content-Description: image001.gif
+line---- Content-Disposition: inline; filename="image001.gif"; size=2367;
+line---- 	creation-date="Thu, 28 May 2015 09:29:48 GMT";
+line---- 	modification-date="Thu, 28 May 2015 09:29:48 GMT"
+line---- Content-ID: <image001.gif@01D0810E.2EA05890>
+line---- Content-Transfer-Encoding: base64
+line---- 
+line---- R0lGODlhRAA8APcAAAIVTgAWUwAWVAQWTwUWUAcXUQkYUgAbUwAbVAoZUwAcVQEdVgMeVwQeWAYf
+line---- WQAhWQAiWgggWgAjWwAjXAAkXQAlXgEmXwInYAAoYAQnYQApYQAqYQArYgArYwAsZAAuZg0sYA4t
+line---- YRAtYREuYgQyZAUyZRMvYwczZhQwZAk0ZxYxZQs1aA42ahE3axI4bBQ5bQY9cBU6bgk+cRc7bxg8
+line---- cBo9cRo/bRw/bh1Abx5BcB9CcSFDciJEcyNFdCRGdSVHdiZHdylJeStLeyxMfC1NfS5Ofi9Pfy5Q
+line---- ejBQgC9RezBSfDhQfDFTfTJUfjNUfzRVgDVWgTZXgjdYgzlZhDpahTtbhjxchz1diD5eiT9fikVe
+line---- hUZfhkFhjEdgh0hhiEljiUtki0xljE1mjU5njk9oj1BpkFFqkVJrklNsk1VulVZvlk9xl1dwl1hx
+line---- mF1xlFdzlFh0lV9zlll1lmB0l1p2l2F1mGJ2mV56m2V5nF97nGB8nWF9nmJ+n2N/oGSAoWWBomaC
+line---- o2eDpGyDoG6CpmiEpW2EoW6Fom+Go3aFo3CHpHGIpXKJpnOKp3SMqHWNqXePrHiQrXmRrnqSr3uT
+line---- sHyUsX6Ws3+XtISYr4easoibs4mctIqdtYueto2guI6huY+iupCjvJKlvZOmvpSnwJmou5WpwZqp
+line---- vJuqvZyrvp2sv56twJ+uwaCvwqGww6KxxaOyxqS0x6W1yKa2yai4y6m5zKu6zay7zq28z7C8yq69
+line---- 0bG9y6++0rK+zLO/zbTAzrXBz7bC0LjD0bnE0rrG07vH1bzI1r3J177K2L/L2cDM2sHN28PP3cfP
+line---- 18TQ3sjQ2MbS4MrS28fT4cvT3MzV3c3W3s7X38/Y4NDZ4dLa4tPb5NTc5dXd5tbe59fg6Nni6trj
+line---- 69vk7N/k5t3l7uDl6OHm6eLn6uPo6+Tp7OXq7ebs7uft7+nu8Orv8uvw8+zx9O3y9e7z9u/19/D2
+line---- +PL3+fP4+/T5/PX6/fb7/vn7+Pz6/vr8+ff9//v9+vn+//z/+/7//CH+EUNyZWF0ZWQgd2l0aCBH
+line---- SU1QACwAAAAARAA8AAAI/gD/CRxIsKDBgwgN8tOnb1/ChxAjSjR4792vMyAaBLllb6LHjxDtvau2
+line---- SMYBCRYsSHAwSx/IlyD5ufMWCkqDBihTppQghB3MnxDhgbPVhsNJnUhTHigHtCnBeuCMKcpRAGfS
+line---- qxLMOW1qTpmmKQ+OXr16oIu7rS/fPSOlhsQBB2OxPmiAwxg/tB6xtfLTo4HYuDolHOBQZI4xvBPf
+line---- XYpiNCfgnQ0e5FDDyRniifUuSbD6OKWDAyPAVArW7rJHcSMcAxYcwUkjW99Mf9xnrMDjzQVw8JGF
+line---- jR5BcrFMKZP90BmBuBEKcCCTSprPgfhs6VFCw8UOQfCIH0SX4wFSwQ2Y/lxqppWgNEdOaHCQwB7l
+line---- Jd/aCe7D1fhBgheBjJWDL5AdqCo1iMBeUhLIoE58Bd3TjB9VuCELOfEUpEsaNJCgEmAFMIVgQfPA
+line---- I49LA1mDSA4krNeZBBycs+FD7ISCxAgcdIbUAXRkt2JB9ghjhoUyJuWAEN7cONA+2zByg2o9pkSE
+line---- J+/849CN6tDhAJKdZcCBDH5UIyRB8exxQJIpgeACGLR0tCVB3nh3ogQeuLBEJuQQdI+ZQvIzjG1x
+line---- sZeBC0EEMtxA/LCjVyjGPHejNF8SyF4KQLARC53/vIONLGp8UMABB7wxjpDvQCHWSh70EEYnQQ5k
+line---- Tze9HLLDAZxZMIAi/vPcyE8yRGxw0g1bOIJMQeQIcwkVglEpwQjobIlNJHksQstZA7mDzCdosFDA
+line---- lBhqeCZB/FBTyh1A3EQlgSykc+1A5LQSyBMctHrbAZLwJ2Q9vjSiRQsOUHuiAwWQ8EexW5pjSRg7
+line---- WKDuaic5QckvTW5JDRMj2HuiXzQAYss29Vz7DhYD53nABmawgg2z41rTgIybHZDEJtio8+S4//Aj
+line---- TKIasyAIM+tUzHJB3IyMFU5j0MKOuzcT9M4aMKv04ybl2HNX0AmZ4wVOErTQxzT5MD3RPWsFI4/V
+line---- XHft9ddghy322GSX7dEywQijtjDBxDlN2mofwy87vhyjokDY0GLK/iq9lOPQpHsHc6A+zrRSCivI
+line---- xPqPOr2ggoovB0aaTDDBiPvP29XwM0YOO8hQgwwvrPKPHTjkUEMNQZiRzD/HvOBELf+0s8kUKTwg
+line---- QQqb/GPKFCVE1kMw9GxSRGNRxKYMG0dKcMMbu2KTBQ41bFIxHTfwYY8QDYiQRRVURGHLP1oc0AIX
+line---- UWz2xD++DMACK/9cwgEBOdThhxOVYEMvEIoYQscww3DgQBSM4MMdypEOKEwpDnBYyRTQQY0c+GUH
+line---- 0vhHFQ4ghnoYwQFGqAc60GGOefDDCwcAAzbScYSU/OMXBXCBLKghgwJQIRjskNQ5VpEBC/xBIOpg
+line---- hycEMAJR/OMe/kzJBAcisAh1nCMRBxCBJrbhgwgIZhL/6IIDyGDBCMhAE5SQhCa48Q8QXoF/MpAA
+line---- E05YgBe04hVfCkVBlIGSHNhhFaVhBQEyIIRA3EIgX9iABO7mDfaYoRs94MALOHADcnxhihZ0TNRg
+line---- 5wUHiEAGNLAAEbpBxhekAhQDeEEuCqIPQfglaleYRjrQgKkNvKAN9mCCBFjwJHfAoAFYwEYg8xAF
+line---- AnwCChGgohGixgc7zAEQ0+jiA1RghBiNQEUoNGMqBAACWRjkHccgxAxs54Z/rMMWcuhdA4YBhZSY
+line---- yR0ecAAXACmBVFRCAjt4gQR0+YAx3uMeDtkHCKngDVGs5xJk/lRh/xrABkMRxB7heIEDoECQVdCA
+line---- AKawAwgcsMl/7GIwg+jGDspJjiRIIAPrTKQLAKEHPcBBGF08QBbaUQ8VWAAI+WyFPNxgGydcYhWH
+line---- +MQ3xtAJW1BCJWrABhlKYYs0cGAAtaBGCSQAg1UYVAIzkAY2JjqKf0ACBBLIZT2w1x4JFIAT/8gC
+line---- Aaqwjn+kQQIbUEYw1Ce6bogBJ1ZyAB6SwYG2YvQG1ODFANq6gQR8IU6mWE9bh3WKfzijO2osRxFu
+line---- UsFWcKITiO3EJYLJikasIlbSmMQkhvENRmRCS/+wxzAKcQYy+MEY6thEHMighkyo6BuRaMMY4rAK
+line---- kHXDEWY4FUMkKPkPc3giEtEQyC4o4YhX3CMgAAA7
+line---- 
+line---- --_004_93E127F9688FAD4F8C690E6AFD25741DA0BAE2ESGSCMB101ericsso_--
+*cmd* 'QUIT'
