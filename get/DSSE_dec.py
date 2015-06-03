@@ -13,15 +13,7 @@ enc_pattern = re.compile(r'.*\.enc$')
 dec_pattern = re.compile(r'.*\.dec$')
 
 
-def dec(crypto):
-    with open('public.pem') as publickfile:
-        p = publickfile.read()
-        pubkey = rsa.PublicKey.load_pkcs1(p)
-
-    with open('private.pem') as privatefile:
-        p = privatefile.read()
-        privkey = rsa.PrivateKey.load_pkcs1(p)
-
+def dec(crypto, privkey):
     content = ''
     while crypto:
         enc_message = crypto[:256]
